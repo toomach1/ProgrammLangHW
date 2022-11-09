@@ -6,7 +6,7 @@ if(N<2){
 }
 else{
     while(Nstart<=N){
-        Console.Write(Nstart + ", ");
+        Console.Write(Nstart + " ");
         Nstart=Nstart+2;
     }
 }
